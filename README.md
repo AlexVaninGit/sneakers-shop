@@ -1,11 +1,12 @@
 # Интренет магазин кроссовок
 ## Запуск в режиме разрабтки
-  - npm start
+    - npm start
 ## Запуск build
-  - npm run build
+    - npm run build
 ## Используемые технолгии
 * Html, CSS(SCSS), JS
 * ReactJS
 * State manadger Redux
 * axios
 * сборщик проекта webpack
+> [ссылка для просмотра](https://alexvaningit.github.io/sneakers-shop/)
